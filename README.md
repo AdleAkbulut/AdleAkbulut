@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdleAkbulut
 - 👀 I’m interested in Game Development, Software Development, Web Development, Artificial Intellegence, and NLP
 - 🌱 I’m currently learning SDL library and C++
-- 💞️ I’m looking to collaborate on open source projects
+- 💞️ I’m want to collaborate on open source projects
 - 📫 How to reach me adleakbulut@gmail.com
 
 <!---
